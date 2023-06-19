@@ -2,13 +2,13 @@ from deepface import DeepFace
 import os
 
 models = ["VGG-Face", "Facenet","OpenFace", "ArcFace"]
-model_name = models[0]
+#model_name = models[0]
 metrics_avail = ["cosine", "euclidean"]
-metrics = metrics_avail[1]
+metrics = metrics_avail[0]
 lib_path = './VGG-Face2/train'
-test_class = 'Su Bingtian'
+#test_class = 'Su Bingtian'
 test_dir = './VGG-Face2/test'
-test_path = f'{test_dir}/{test_class}/'
+#test_path = f'{test_dir}/{test_class}/'
 
 
 def model_comparison_acc():
@@ -53,4 +53,5 @@ def model_acc_on_first():
             f.write(f'{m} acc = {model_correct/(all_num)}, metrics = {metrics}\n')
                     
 if __name__ == '__main__':
+    model_acc_on_first()
     model_comparison_acc()

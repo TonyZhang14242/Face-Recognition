@@ -29,6 +29,8 @@ After completion of virtual environment setup, download and install **deepface**
 ```bash
 python -m pip install --upgrade pip
 pip install deepface
+pip install matplotlib
+pip install jupyterlab
 ```
 
 
@@ -48,8 +50,11 @@ git clone https://github.com/TonyZhang14242/Face-Recognition.git
 After that, simply run, for example:
 
 ```bash
-python verify.py
+python comparison.py
 ```
+
+Also, we've provided a jupyter notebook (*recognition.ipynb*) to offer a more instinctive and interactive way to show results.
+You can simply open this in jupyter lab and select the above environment as kernal to run this piece of code.
 
 
 
@@ -72,3 +77,7 @@ wget -c https://github.com/serengil/deepface_models/releases/download/v1.0/race_
 
 
 After all these finished, you are set to go!
+
+### Contribution
+
+### Reference

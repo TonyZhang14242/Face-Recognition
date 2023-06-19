@@ -1,8 +1,8 @@
+VGG-Face acc = 0.7452830188679245, metrics = euclidean
+Facenet acc = 0.6886792452830188, metrics = euclidean
+OpenFace acc = 0.1320754716981132, metrics = euclidean
+ArcFace acc = 0.6698113207547169, metrics = euclidean
 VGG-Face acc = 0.8113207547169812, metrics = cosine
-Facenet acc = 0.7169811320754716, metrics = cosine
+Facenet acc = 0.7075471698113207, metrics = cosine
 OpenFace acc = 0.11320754716981132, metrics = cosine
 ArcFace acc = 0.7264150943396226, metrics = cosine
-VGG-Face acc = 0.7452830188679245, metrics = euclidean
-Facenet acc = 0.6792452830188679, metrics = euclidean
-OpenFace acc = 0.14150943396226415, metrics = euclidean
-ArcFace acc = 0.6698113207547169, metrics = euclidean
