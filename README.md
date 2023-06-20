@@ -2,7 +2,9 @@
 
 This is the final project for CS308 Computer Vision course in 2023 Spring semester.
 
+<img src=".\docs\HYQ_sim.png" alt="HYQ_sim" style="zoom:67%;" />
 
+<img src=".\docs\HYQ_info.png" alt="HYQ_info" style="zoom:67%;" />
 
 ### Environment Setup
 
@@ -80,4 +82,14 @@ After all these finished, you are set to go!
 
 ### Contribution
 
+[张镇涛](https://github.com/TonyZhang14242)
+
+[黎宇杰](https://github.com/Dystractor)
+
+[宋一鸣](https://github.com/iddbh)
+
 ### Reference
+
+[1] S. I. Serengil and A. Ozpinar, "LightFace: A Hybrid Deep Face Recognition Framework," 2020 Innovations in Intelligent Systems and Applications Conference (ASYU), Istanbul, Turkey, 2020, pp. 1-5, doi: 10.1109/ASYU50717.2020.9259802.
+
+[2] S. I. Serengil and A. Ozpinar, "HyperExtended LightFace: A Facial Attribute Analysis Framework," 2021 International Conference on Engineering and Emerging Technologies (ICEET), Istanbul, Turkey, 2021, pp. 1-4, doi: 10.1109/ICEET53442.2021.9659697.
